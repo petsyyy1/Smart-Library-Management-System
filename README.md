@@ -9,6 +9,14 @@ Project Modules
 - Inventory Management
 - Reports
 Development Team
-Student Name: Japhet Pantaleon
-Course: BSIT SD
-Section: 2C
+Student Name:
+Course:
+Section:
+
+Member Management Module
+
+Features
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
