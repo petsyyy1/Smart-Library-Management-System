@@ -1,9 +1,7 @@
-Project Modules
+Member Management Module
 
-- Member Management
-- Book Catalog
-- Borrowing
-- Returning
-- Inventory Management
-- Reports
-- User Accounts
+Features
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
