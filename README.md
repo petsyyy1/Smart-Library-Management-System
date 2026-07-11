@@ -7,3 +7,7 @@ Project Modules
 - Inventory Management
 - Reports
 - User Accounts
+
+Book Reservation Module
+     - Reserve unavailable books
+     - Cancel reservations
