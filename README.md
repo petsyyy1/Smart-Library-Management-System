@@ -8,6 +8,3 @@ Project Modules
 - Reports
 - User Accounts
 
-Book Reservation Module
-     - Reserve unavailable books
-     - Cancel reservations
